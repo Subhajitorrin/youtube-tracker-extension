@@ -1,10 +1,10 @@
 # YouTube Tracker Chrome Extension
 
-YouTube Tracker is a Chrome extension that lets you easily save and access your favorite YouTube videos right from your browser.
+YouTube Tracker is a Chrome extension that lets you easily list and access your favorite YouTube videos and playlists right from your browser.
 
 ## Features
 
-- **Save Videos:** Quickly save YouTube video links with a click.
+- **List Videos or playlists:** Quickly save YouTube video and playlists links with a click.
 - **Access Anytime:** View your list of saved videos anytime in a simple format.
 - **Direct Navigation:** Click on a video to go straight to it on YouTube.
 - **Remove Easily:** Remove videos from your list when you're done with them.
