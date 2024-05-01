@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "My react boilerplace",
+    "description": "My reactjs extension",
+    "version": "1.0.1",
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "12": "icon.png"
+    },
+    "action": {
+        "default_title": "Click me",
+        "default_popup": "popup.html"
+    }
+}

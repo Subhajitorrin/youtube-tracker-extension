@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Youtube Tracker",
+    "description": "Access and manage your YouTube videos and playlists from anywhere with Youtube Tracker. Simply login to the extension and enjoy seamless organization across all your browsers. Add, rearrange, and remove videos effortlessly to stay on top of your watchlist.",
+    "version": "1.0.1",
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "12": "icon.png"
+    },
+    "action": {
+        "default_title": "Click me",
+        "default_popup": "popup.html"
+    }
+}

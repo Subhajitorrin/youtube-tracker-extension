@@ -1,0 +1,83 @@
+.homeContainer {
+  height: 100%;
+  width: 100%;
+  /* border: 1px solid white; */
+  padding: 20px;
+  position: relative;
+}
+.signoutBtn {
+  position: absolute;
+  cursor: pointer;
+  background-color: #71a2d0;
+  padding: 5px 10px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+}
+.topsection {
+  /* border: 1px solid white; */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+.topsection h2 {
+  color: white;
+  font-family: "Alegreya Sans SC", sans-serif;
+  font-size: 1.2rem;
+}
+.topsection form {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+.topsection input {
+  width: 85%;
+  height: 100%;
+  border-radius: 10px;
+  padding-left: 20px;
+  background-color: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  outline: none;
+  color: white;
+}
+.topsection button {
+  width: 10%;
+  cursor: pointer;
+  height: 90%;
+  border-radius: 10px;
+  background-color: #a6ccf0;
+  border: none;
+  outline: none;
+  transition: 0.3s ease-in-out all;
+}
+.topsection button:hover {
+  background-color: #7995af;
+  transition: 0.3s ease-in-out all;
+}
+.videoListSection {
+  /* border: 1px solid white; */
+  height: 400px;
+  overflow-y: auto;
+  /* display: grid; */
+  /* gap: 20px; */
+  margin-bottom: 20px;
+}
+.videoListSection::-webkit-scrollbar {
+  display: none;
+}
+.vdoBtn{
+  position: absolute;
+  right: 20px;
+  cursor: pointer;
+  background-color: #71a2d0;
+  padding: 5px 10px;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+}
